@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# 🎯Focus on
+ - Flutter cross platform application(Mobile, Web, Windows desktop)
+ - Spring boot with Kotlin
+
 <!--
 **alsrhkd77/alsrhkd77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

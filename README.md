@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# 🎯Focus on
+### 🎯Focus on
  - Flutter cross platform application(Mobile, Web, Windows desktop)
  - Spring boot with Kotlin
 

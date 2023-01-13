@@ -1,7 +1,7 @@
 ### 안녕하세요 👋
 송민광 입니다.
 
-### 🎯Focus on
+### 🎯최근 관심사
  - Flutter cross platform application(Mobile, Web, Windows desktop)
  - Spring boot with Kotlin
 

@@ -5,7 +5,7 @@
  - Flutter cross platform application(Mobile, Web, Windows desktop)
  - Spring boot with Kotlin
 
-### 프로젝트 ⚡
+### ⚡ 프로젝트
 모아보기: https://github.com/alsrhkd77/alsrhkd77/blob/main/projects.md
  - [Karanda (2022~, Flutter Web & Desktop)](https://github.com/alsrhkd77/Karanda)
  - [Trip Story (2020, Flutter App & GCP 담당)](https://github.com/alsrhkd77/TripStoryApp)

@@ -7,9 +7,15 @@
 
 # 프로젝트
 
-## Trip Story(2020, Flutter App 제작 및 GCP 환경 담당)
+## Trip Story (2020, Flutter App 제작 및 GCP 환경 담당)
 Trip Story는 여행SNS로 자신의 여행을 더 편하게 공유하고 다른 사람의 여행을 찾아볼 수 있는 서비스다.
 > https://github.com/alsrhkd77/TripStoryApp
+
+### 개발 환경
+ - 서버 운용: Google Cloud Platform
+ - 서버 제작: Spring boot
+ - App 제작: Flutter
+ - Web 제작: React
 
 ### 특징
  - 짧은 글, 사진, 여행한 경로 등을 포함한 게시글을 작성할 수 있다
@@ -22,6 +28,10 @@ Trip Story는 여행SNS로 자신의 여행을 더 편하게 공유하고 다른
  - 커스텀 위젯을 만들어 위젯 재사용성 증대
  - shared_preferences를 사용해 로컬데이터를 통한 자동로그인 구현
  - 페이징과 비동기 처리를 통해 타임라인과 검색기능이 답답하지 않도록 구현
+
+
+## Karanda (2022~)
+
 
 <!--
 **alsrhkd77/alsrhkd77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

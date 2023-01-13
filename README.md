@@ -31,13 +31,11 @@ Trip Story는 여행SNS로 자신의 여행을 더 편하게 공유하고 다른
 
 
 ## Karanda (2022~)
-게임 편의성 도구 모음(취미로 제작)
-
-RPG 게임을 하며 게임 외부에 기록이 필요하거나 계산이 필요한것 등을 도와줄 수 있도록 제작
-
+게임 편의성 도구 모음(취미로 제작)<br/>
+RPG 게임을 하며 게임 외부에 기록이 필요하거나 계산이 필요한것 등을 도와줄 수 있도록 제작<br/><br/>
 Flutter Desktop & Web을 활용해 제작
-> Code: https://github.com/alsrhkd77/Karanda
-> Web: https://hwansangyeonhwa.github.io/Karanda
+> Code: https://github.com/alsrhkd77/Karanda<br/>
+> Web: https://hwansangyeonhwa.github.io/Karanda<br/>
 > Desktop: https://github.com/HwanSangYeonHwa/Karanda/releases
 
 ### 특징

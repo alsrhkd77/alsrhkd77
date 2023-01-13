@@ -7,7 +7,7 @@
 
 # 프로젝트
 
-## Trip Story(2020, Flutter App 제작 및 GCP 환경 담)
+## Trip Story(2020, Flutter App 제작 및 GCP 환경 담당)
 Trip Story는 여행SNS로 자신의 여행을 더 편하게 공유하고 다른 사람의 여행을 찾아볼 수 있는 서비스다.
 > https://github.com/alsrhkd77/TripStoryApp
 

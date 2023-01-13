@@ -5,7 +5,7 @@
  - Flutter cross platform application(Mobile, Web, Windows desktop)
  - Spring boot with Kotlin
 
-# 프로젝트
+# 프로젝트?
 
 ## Trip Story (2020, Flutter App 제작 및 GCP 환경 담당)
 Trip Story는 여행SNS로 자신의 여행을 더 편하게 공유하고 다른 사람의 여행을 찾아볼 수 있는 서비스다.
@@ -31,8 +31,27 @@ Trip Story는 여행SNS로 자신의 여행을 더 편하게 공유하고 다른
 
 
 ## Karanda (2022~)
+게임 편의성 도구 모음(취미로 제작)
 
+RPG 게임을 하며 게임 외부에 기록이 필요하거나 계산이 필요한것 등을 도와줄 수 있도록 제작
 
+Flutter Desktop & Web을 활용해 제작
+> Code: https://github.com/alsrhkd77/Karanda
+> Web: https://hwansangyeonhwa.github.io/Karanda
+> Desktop: https://github.com/HwanSangYeonHwa/Karanda/releases
+
+### 특징
+ - PWA 지원
+ - 주기적으로 갱신되는 이벤트 캘린더
+ - 이벤트 기간을 시각적으로 보여주는 이벤트 캘린더
+ - 선택 가능한 테마 모드(light / dark)
+ - 예약 종료
+ - 프로그램 안에서 업데이트를 확인하고 다운로드 가능(Desktop App)
+### 기술
+ - Getx 패키지를 활용한 라우팅
+ - Provider 패키지를 통한 logic 분리
+ - Flutter Web과 Desktop에서 모두 사용할 수 있는 패키지들을 사용해 구현
+ - 
 <!--
 **alsrhkd77/alsrhkd77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

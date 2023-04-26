@@ -3,14 +3,13 @@
 
 ### 🎯 최근 관심사
  - Flutter cross platform application(Mobile, Web, Windows desktop)
- - Spring boot with Kotlin
+ - FastAPI
 
 ### ⚡ 프로젝트
-모아보기: https://github.com/alsrhkd77/alsrhkd77/blob/main/projects.md
  - [Karanda (2022~, Flutter Web & Desktop)](https://github.com/alsrhkd77/Karanda)
  - [Trip Story (2020, Flutter App & GCP 담당)](https://github.com/alsrhkd77/TripStoryApp)
  - [macao talk(2019, Qt5 & C++ & MariaDB)](https://github.com/alsrhkd77/macao_talk)
- - 
+ - [KarandaServer(FastAPI - Python3)](https://github.com/alsrhkd77/KarandaServer)
 <!--
 **alsrhkd77/alsrhkd77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

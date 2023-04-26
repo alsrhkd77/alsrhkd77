@@ -1,9 +1,10 @@
 ### 안녕하세요 👋
 송민광 입니다.
+**백수**입니다.
 
 ### 🎯 최근 관심사
  - Flutter cross platform application(Mobile, Web, Windows desktop)
- - FastAPI
+ - FastAPI - Python3
 
 ### ⚡ 프로젝트
  - [Karanda (2022~, Flutter Web & Desktop)](https://github.com/alsrhkd77/Karanda)
